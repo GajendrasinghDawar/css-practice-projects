@@ -8,6 +8,10 @@ export default function Home() {
         {" "}
         character creator app
       </Link>
+      <Link href={" mini-component-library"} className="underline">
+        {" "}
+        mini-component-library
+      </Link>
     </main>
   )
 }

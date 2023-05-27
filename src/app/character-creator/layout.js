@@ -1,7 +1,7 @@
 import "./characterCreator.css"
 export const metadata = {
   title: "Character Creator",
-  description: "Character Creator by josh comeau",
+  description: "Character Creator ",
 }
 
 export default function CharacterCreatorLayout({ children }) {
